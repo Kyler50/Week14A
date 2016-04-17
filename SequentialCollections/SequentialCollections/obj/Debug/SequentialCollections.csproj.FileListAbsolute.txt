@@ -1,0 +1,6 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojResolveAssemblyReference.cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb

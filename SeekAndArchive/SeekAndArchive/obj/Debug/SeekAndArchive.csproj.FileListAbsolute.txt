@@ -1,0 +1,6 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SeekAndArchive\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.csprojResolveAssemblyReference.cache
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\SeekAndArchive\SeekAndArchive\obj\Debug\SeekAndArchive.pdb

@@ -1,0 +1,5 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

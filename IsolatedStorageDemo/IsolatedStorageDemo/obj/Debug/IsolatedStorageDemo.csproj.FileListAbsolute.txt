@@ -1,0 +1,5 @@
+c:\users\vas richard roland\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+c:\users\vas richard roland\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+c:\users\vas richard roland\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+c:\users\vas richard roland\documents\visual studio 2015\Projects\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
